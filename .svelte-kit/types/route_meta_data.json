@@ -1,0 +1,27 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/languages": [
+		"src/routes/+layout.ts"
+	],
+	"/languages/[id]": [
+		"src/routes/+layout.ts"
+	],
+	"/login": [
+		"src/routes/+layout.ts"
+	],
+	"/rtc": [
+		"src/routes/+layout.ts"
+	],
+	"/signup": [
+		"src/routes/+layout.ts"
+	],
+	"/tutors": [
+		"src/routes/+layout.ts"
+	],
+	"/tutors/[id]": [
+		"src/routes/+layout.ts"
+	]
+}
